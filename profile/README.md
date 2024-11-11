@@ -7,7 +7,6 @@ Lecspace is a digital platform developed by students from the Faculty of Technol
 ## Key Features
 
 •	**Room Booking Management**: Efficient room booking system with real-time availability checks to prevent scheduling conflicts. 
-
 •	**User Management & Role-Based Access**: Supports multiple roles (e.g., DR,Admins, Lecturers, Students) with customized permissions for each user type. 
 
 •	**Booking Proposals & Approvals**: Allows users to submit booking requests with specific requirements, facilitating administrative review and approval. 
