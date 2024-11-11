@@ -20,6 +20,7 @@ Technologies Used
 •	Version Control: Managed via GitHub for collaborative development.
 
 Additional Resources
+
 Lecspace provides various resources to facilitate efficient project development and management:
 
 •	Room Booking: Implements CRUD operations for room management and booking, with real-time availability checks.
