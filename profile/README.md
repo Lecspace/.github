@@ -7,6 +7,7 @@ Lecspace is a digital platform developed by students from the Faculty of Technol
 ## Key Features
 
 •	**Room Booking Management**: Efficient room booking system with real-time availability checks to prevent scheduling conflicts. 
+
 •	**User Management & Role-Based Access**: Supports multiple roles (e.g., DR,Admins, Lecturers, Students) with customized permissions for each user type. 
 
 •	**Booking Proposals & Approvals**: Allows users to submit booking requests with specific requirements, facilitating administrative review and approval. 
@@ -17,18 +18,18 @@ Lecspace is a digital platform developed by students from the Faculty of Technol
 
 ## Technologies Used
 
-•	Frontend: Built with Next.js with TypeScript and Tailwind CSS, ensuring a responsive and intuitive interface.
-•	Backend: Powered by Spring Boot, delivering robust RESTful API development and authentication
-•	Testing: Postman for API integration testing.
-•	Version Control: Managed via GitHub for collaborative development.
+•	**Frontend**: Built with Next.js with TypeScript and Tailwind CSS, ensuring a responsive and intuitive interface.
+•	**Backend**: Powered by Spring Boot, delivering robust RESTful API development and authentication
+•	**Testing**: Postman for API integration testing.
+•	**Version Control**: Managed via GitHub for collaborative development.
 
 ## Additional Resources
 
 Lecspace provides various resources to facilitate efficient project development and management:
 
-•	Room Booking: Implements CRUD operations for room management and booking, with real-time availability checks.
-•	User Management: Supports user roles and authenticated access to booking features.
-•	Booking Proposals: Includes capacity and scheduling options for users to propose and review room bookings.
-•	Error Handling: Displays specific error messages for booking conflicts and other validation criteria.
-•	Documentation: Provides Software Requirement Specifications (SRS), visual prototypes, and other project management documents.
+•	**Room Booking**: Implements CRUD operations for room management and booking, with real-time availability checks.
+•	**User Management**: Supports user roles and authenticated access to booking features.
+•	**Booking Proposals**: Includes capacity and scheduling options for users to propose and review room bookings.
+•	**Error Handling**: Displays specific error messages for booking conflicts and other validation criteria.
+•	**Documentation**: Provides Software Requirement Specifications (SRS), visual prototypes, and other project management documents.
 
