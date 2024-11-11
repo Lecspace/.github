@@ -1,7 +1,11 @@
 Lecspace -Lab and Lecture Hall Management System
+
 Overview
+
 Lecspace is a digital platform developed by students from the Faculty of Technology at the University of Sri Jayewardenepura to streamline the booking and management of labs and lecture halls as part of our ICT project (IT3081 – ICT Project).  This centralized system optimizes room usage, minimizes scheduling conflicts while booking and enhances transparency for students, faculty, and administrators for efficient automated booking .
+
 Key Features 
+
 •	Room Booking Management: Efficient room booking system with real-time availability checks to prevent scheduling conflicts. 
 •	User Management & Role-Based Access: Supports multiple roles (e.g., DR,Admins, Lecturers, Students) with customized permissions for each user type. 
 •	Booking Proposals & Approvals: Allows users to submit booking requests with specific requirements, facilitating administrative review and approval. 
@@ -14,10 +18,6 @@ Technologies Used
 •	Backend: Powered by Spring Boot, delivering robust RESTful API development and authentication
 •	Testing: Postman for API integration testing.
 •	Version Control: Managed via GitHub for collaborative development.
-
-
-
-
 
 Additional Resources
 Lecspace provides various resources to facilitate efficient project development and management:
